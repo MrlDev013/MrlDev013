@@ -9,4 +9,5 @@ LinkedIn: https://www.linkedin.com/in/murilooliveiradasilva/
 <div style="display: inline_block"><br>
   <a ref = "https://github.com/MrlDev013">
   <img align="center" alt="Murilo-Csharp" height="50" width="50"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Murilo-C" height="50" width="50"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
