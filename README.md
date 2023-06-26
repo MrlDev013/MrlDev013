@@ -2,7 +2,7 @@
 -Possuo experiência como estagiário, atuando no desenvolvimento, utilizando C# e o framework Asp.Net, na empresa PRODAM-SP e construindo soluções tecnológicas para a área de saúde da prefeitura de São Paulo.<br>
 English:<br>
 -Hello, I'm Murilo! I'm a C# developer and a Computer Science student.<br>
--Nowadays, I'm a Intern in PRODAM-SP, building tech solutions, using C# and Asp.Net, for the São Paulo health system.
+-Nowadays, I'm a Intern in Avita Seguros, building tech solutions, using .Net and Angular, for insurance documents, automation and more...
 
 <div style="display: inline_block"><br>
   <a ref = "https://github.com/MrlDev013">
