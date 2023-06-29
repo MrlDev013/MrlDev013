@@ -1,5 +1,5 @@
 ## Olá, sou Murilo e sou desenvolvedor C# e graduando em Ciências da Computação.
--Possuo experiência como estagiário, atuando no desenvolvimento, utilizando C# e o framework Asp.Net, na empresa PRODAM-SP e construindo soluções tecnológicas para a área de saúde da prefeitura de São Paulo.<br>
+-Possuo experiência como estagiário, atuando no desenvolvimento, utilizando C# e o framework Angular, na empresa Avita Seguros e construindo soluções tecnológicas para a área juridica de seguro garantia, automações de processos e entre outros.<br>
 English:<br>
 -Hello, I'm Murilo! I'm a C# developer and a Computer Science student.<br>
 -Nowadays, I'm a Intern in Avita Seguros, building tech solutions, using .Net and Angular, for insurance documents, automation and more...
